@@ -1,0 +1,20 @@
+#demo{
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+    width: 70vw;
+    height: 70vh;
+    text-align: center;
+}
+
+.pics{
+    background-position: center;
+    width: 10%;
+    height: auto;
+    background-size: contain;
+    position: relative;
+}
+
